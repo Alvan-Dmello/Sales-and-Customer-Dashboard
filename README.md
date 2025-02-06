@@ -6,10 +6,13 @@ This project features a Tableau dashboard that analyzes and visualizes sales and
 
 ## Dashboard Screenshots
 ![Screenshot 1](path/to/your/screenshot1.png)
-*Screenshot 1: Overview of Sales Data*
+*Screenshot 1: Sales Dashboard*
 
 ![Screenshot 2](path/to/your/screenshot2.png)
-*Screenshot 2: Monthly Revenue Trends*
+*Screenshot 2: Customer Dashboard*
+
+![Screenshot 2](path/to/your/screenshot2.png)
+*Screenshot 2: Filters in the Dashboard*
 
 ## How to Use
 To view the full dashboard, click on the link above. For anyone looking to modify or replicate the dashboard, the workbook is available on Tableau Public.
