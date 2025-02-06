@@ -1,5 +1,5 @@
 # Tableau_Dashboard
-This project showcases a Tableau dashboard that visualizes sales performance across different regions, time periods, and product categories. The dashboard helps in identifying key trends, potential growth areas, and insights into customer behavior.
+This project features a Tableau dashboard that analyzes and visualizes sales and customer trends. It provides insights into key performance metrics such as total sales, customer distribution, and trends over time, empowering data-driven decision-making for sales strategies and customer engagement.
 
 ## Live Tableau Dashboard
 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/YourDashboard)
