@@ -6,10 +6,10 @@ To view the full dashboard, click on the link below.
 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/YourDashboard)
 
 ## Dashboard Screenshots
-![Screenshot 1](Sales Dashboard.png)
+![Screenshot 1](Sales_Dashboard.png)
 *Screenshot 1: Sales Dashboard*
 
-![Screenshot 2](Customer Dashboard.png)
+![Screenshot 2](Customer_Dashboard.png)
 *Screenshot 2: Customer Dashboard*
 
 ![Screenshot 2](Filters.png)
