@@ -8,9 +8,13 @@ To view the full dashboard, click on the link below.
 ## Dashboard Screenshots
 ![Screenshot 1](Sales_Dashboard.png)
 *Screenshot 1: Sales Dashboard*
-<br>
+
+&nbsp;
+
 ![Screenshot 2](Customer_Dashboard.png)
 *Screenshot 2: Customer Dashboard*
-<br>
+
+&nbsp;
+
 ![Screenshot 2](Filters.png)
 *Screenshot 3: Filters in the Dashboard*
