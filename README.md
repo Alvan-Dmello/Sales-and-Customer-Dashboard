@@ -1,6 +1,6 @@
 # Tableau_Dashboard
 This project features a Tableau dashboard that analyzes and visualizes sales and customer trends. It provides insights into key performance metrics such as total sales, customer distribution, and trends over time, empowering data-driven decision-making for sales strategies and customer engagement. For a demo of the dashboard, click on the Tableau Public Link:
-[752110](https://public.tableau.com/app/profile/alvan.dmello/viz/SalesDashboard_17417600110080/SalesDashboard)
+https://public.tableau.com/app/profile/alvan.dmello/viz/SalesDashboard_17417600110080/SalesDashboard
 
 ## Dashboard Screenshots
 ![Screenshot 1](Sales_Dashboard.png)
