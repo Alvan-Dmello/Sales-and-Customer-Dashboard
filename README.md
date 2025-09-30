@@ -5,7 +5,7 @@ This project features a **Tableau dashboard** that analyzes and visualizes sales
 ### 🔗 Live Demo
 
 For an interactive demo of the dashboard, click on the Tableau Public Link:
-[Tableau Public Link: SalesDashboard](https://public.tableau.com/app/profile/alvan.dmello/viz/SalesDashboard_17417600110080/SalesDashboard)
+[SalesDashboard](https://public.tableau.com/app/profile/alvan.dmello/viz/SalesDashboard_17417600110080/SalesDashboard)
 
 ---
 
