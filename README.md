@@ -31,17 +31,11 @@ The dashboard is structured to answer critical business questions, focusing on t
 
 ## 🖼️ Dashboard Screenshots
 
-| Screenshot | Description |
+| Description | Screenshot |
 | :--- | :--- |
-| ![Screenshot 1](Sales_Dashboard.png) | Sales Performance Overview |
-| ![Screenshot 2](Customer_Dashboard.png) | Customer Distribution and Trends |
-| ![Screenshot 3](Filters.png) | Interactive Filter Pane for Deep Dive Analysis |
-
-What are the best practices for Tableau dashboard design?
-
-How can I add more interactive filters to the dashboard?
-
-Suggest ways to optimize dashboard performance.
+|  Sales Performance Overview | ![Screenshot 1](Sales_Dashboard.png) |
+|  Customer Distribution and Trends | ![Screenshot 2](Customer_Dashboard.png) |
+|  Interactive Filter Pane for Deep Dive Analysis | ![Screenshot 3](Filters.png) |
 
 
 
