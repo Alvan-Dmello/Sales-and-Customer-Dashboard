@@ -24,8 +24,8 @@ The dashboard is structured to answer critical business questions, focusing on t
 | Category | Tool / Platform | Purpose |
 | :--- | :--- | :--- |
 | **Visualization** | **Tableau Desktop / Public** | Primary tool for data connection, visualization design, and interactivity. |
-| **Data Source** | [Specify the data source, e.g., **CSV / Excel**] | Source dataset used for building the metrics and visuals. |
-| **Data Cleaning** | [Specify the tool, e.g., **Tableau Prep** or **Python/Pandas**] | Tool used for initial cleaning or transformation of the raw data. |
+| **Data Source** | **Kaggle** | Source dataset used for building the metrics and visuals. |
+| **Data Cleaning** | **Tableau Prep** | Tool used for initial cleaning or transformation of the raw data. |
 
 ---
 
